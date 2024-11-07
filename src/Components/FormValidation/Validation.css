@@ -1,0 +1,23 @@
+.validation{
+    background-color: rgb(32,35,65);
+
+}
+.in{
+ 
+   
+   border-radius: 15px;
+  
+   border: 1px solid black;
+}
+.in:focus{
+    outline: none;
+}
+.bt{
+ 
+    border-radius: 10px;
+    background-color: rgb(250,104,0);
+    color: white;
+    font-style: inherit;
+    border: 1px solid black;
+    cursor: pointer;
+}
